@@ -1,0 +1,25 @@
+body {
+    font: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    font-size: 12pt;
+    padding: 30px;
+}
+
+h1 {
+    margin: 5px 0 0 5px;
+}
+
+.mensagem-acerto {
+    background-color: greenyellow;
+    color: rgb(238, 44, 228);
+    display: inline-block;
+}
+
+.mensagem-erro {
+    background-color:rgb(206, 18, 18);
+    color: rgb(202, 102, 164);
+    display: inline-block;
+}
